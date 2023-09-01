@@ -7,4 +7,4 @@ function cuentaRegresiva(numeroInicial){
     return NumberAlRevez
 }
 
-console.log(cuentaRegresiva(12))
+console.log(cuentaRegresiva(10))
